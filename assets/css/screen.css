@@ -1,0 +1,9 @@
+.positive {
+    background-color: lightgreen;
+}
+.neutral {
+    background-color: lightyellow;
+}
+.negative {
+    background-color: salmon;
+}
